@@ -1,8 +1,8 @@
 import React from 'react'
-
+import '../../App.css'
 const Header = () => {
   return (
-    <div>Header</div>
+    <div className='text-3xl font-bold'>Hello</div>
   )
 }
 
